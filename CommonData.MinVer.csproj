@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <AssemblyName>CommonData.MinVer.Spike</AssemblyName>
+    <RootNamespace>CommonData.MinVer.Spike</RootNamespace>
+    <Description>blabla</Description>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+    <LangVersion>8</LangVersion>
+    <Nullable>enable</Nullable>
+    <AnalysisMode>AllEnabledByDefault</AnalysisMode>
+  </PropertyGroup>
+
+</Project>

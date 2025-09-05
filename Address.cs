@@ -11,3 +11,5 @@ namespace CommonData.MinVer.Spike
         public string Name { get; set; } = string.Empty;
     }
 }
+
+
